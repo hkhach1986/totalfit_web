@@ -1,0 +1,24 @@
+1661894520687	geckodriver	INFO	Listening on 127.0.0.1:54548
+1661894523745	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54549" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hkhac\\AppData\\Local\\Temp\\rust_mozprofileSzF05S"
+1661894524166	Marionette	INFO	Marionette enabled
+1661894524170	Marionette	INFO	Listening on port 54557
+WebDriver BiDi listening on ws://localhost:54549
+Read port: 54557
+1661894524264	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hkhac\\AppData\\Local\\Temp\\rust_mozprofileSzF05S\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54549/devtools/browser/c693d359-a258-4a22-b221-3738444aba1d
+1661894528325	Marionette	INFO	Stopped listening on port 54557
+1661894530065	geckodriver	INFO	Listening on 127.0.0.1:54602
+1661894533127	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54603" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hkhac\\AppData\\Local\\Temp\\rust_mozprofilePqEOfC"
+1661894533547	Marionette	INFO	Marionette enabled
+1661894533550	Marionette	INFO	Listening on port 54611
+WebDriver BiDi listening on ws://localhost:54603
+Read port: 54611
+1661894533645	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\hkhac\\AppData\\Local\\Temp\\rust_mozprofilePqEOfC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54603/devtools/browser/aff4e021-191b-486c-b2ca-de6af621de63
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://staging-01-totalfit.team."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://staging-01-totalfit.team."
+1661894538803	Marionette	INFO	Stopped listening on port 54611
+[Parent 11784, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+Invalid port. Exiting...

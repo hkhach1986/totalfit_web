@@ -3203,3 +3203,221 @@ INFO:root:*********Pass switch app button test ********
 INFO:root:*********Verifying switch admin button test ********
 INFO:root:*********Pass switch admin button test ********
 INFO:root:*********Verifying logout button test ********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 104.0 firefox
+INFO:WDM:Getting latest mozilla release info for v0.31.0
+INFO:WDM:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.31.0/geckodriver-v0.31.0-win64.zip
+INFO:WDM:Driver has been saved in cache [C:\Users\hkhac\.wdm\drivers\geckodriver\win64\0.31]
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 104.0 firefox
+INFO:WDM:Driver [C:\Users\hkhac\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+INFO:root:*********Verifying Login test ********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 105.0 firefox
+INFO:WDM:There is no [win64] geckodriver for browser 105.0 in cache
+INFO:WDM:Getting latest mozilla release info for v0.31.0
+INFO:WDM:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.31.0/geckodriver-v0.31.0-win64.zip
+INFO:WDM:Driver has been saved in cache [C:\Users\hkhac\.wdm\drivers\geckodriver\win64\0.31]
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 105.0 firefox
+INFO:WDM:Driver [C:\Users\hkhac\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 105.0 firefox
+INFO:WDM:Driver [C:\Users\hkhac\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+INFO:root:*********Verifying Login test ********
+INFO:root:*********Login Successful********
+INFO:root:*********Verifying MM (user) button test for switch app ********
+INFO:root:*********Pass MM (user) button test for switch app ********
+INFO:root:*********Verifying switch app button test ********
+INFO:root:*********Pass switch app button test ********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 105.0 firefox
+INFO:WDM:Driver [C:\Users\hkhac\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+INFO:root:*********Verifying Login test ********
+INFO:root:*********Verifying set login button test ********
+INFO:root:*********Verifying MM button test ********
+INFO:root:*********Verifying logout button test ********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 105.0 firefox
+INFO:WDM:Driver [C:\Users\hkhac\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+INFO:root:*********Verifying Login test ********
+INFO:root:*********Login Successful********
+INFO:root:*********Verifying MM (user) button test ********
+INFO:root:*********Pass MM (user) button test ********
+INFO:root:*********Verifying My Profile button test ********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 105.0 firefox
+INFO:WDM:Driver [C:\Users\hkhac\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+INFO:root:*********Verifying MM (user) button test for switch app ********
+INFO:root:*********Pass MM (user) button test for switch app ********
+INFO:root:*********Verifying switch app button test ********
+INFO:root:*********Pass switch app button test ********
+INFO:root:*********Verifying switch admin button test ********
+INFO:root:*********Pass switch admin button test ********
+INFO:root:*********Verifying logout button test ********
+INFO:root:*********Verifying Login test ********
+INFO:root:*********Login Successful********
+INFO:root:*********Verifying MM (user) button test for switch app ********
+INFO:root:*********Pass MM (user) button test for switch app ********
+INFO:root:*********Verifying switch app button test ********
+INFO:root:*********Pass switch app button test ********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 105.0 firefox
+INFO:WDM:Driver [C:\Users\hkhac\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+INFO:root:*********Verifying Login test ********
+INFO:root:*********Verifying set login button test ********
+INFO:root:*********Verifying MM button test ********
+INFO:root:*********Verifying logout button test ********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 105.0 firefox
+INFO:WDM:Driver [C:\Users\hkhac\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+INFO:root:*********Verifying Login test ********
+INFO:root:*********Login Successful********
+INFO:root:*********Verifying MM (user) button test ********
+INFO:root:*********Pass MM (user) button test ********
+INFO:root:*********Verifying My Profile button test ********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 105.0 firefox
+INFO:WDM:Driver [C:\Users\hkhac\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+INFO:root:*********Verifying MM (user) button test for switch app ********
+INFO:root:*********Pass MM (user) button test for switch app ********
+INFO:root:*********Verifying switch app button test ********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 105.0 firefox
+INFO:WDM:Getting latest mozilla release info for v0.31.0
+INFO:WDM:About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.31.0/geckodriver-v0.31.0-win64.zip
+INFO:WDM:Driver has been saved in cache [C:\Users\hkhac\.wdm\drivers\geckodriver\win64\0.31]
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 105.0 firefox
+INFO:WDM:Driver [C:\Users\hkhac\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+INFO:root:*********Verifying Login test ********
+INFO:root:*********Login Successful********
+INFO:root:*********Verifying MM (user) button test for switch app ********
+INFO:root:*********Pass MM (user) button test for switch app ********
+INFO:root:*********Verifying switch app button test ********
+INFO:root:*********Pass switch app button test ********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 105.0 firefox
+INFO:WDM:Driver [C:\Users\hkhac\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+INFO:root:****************Test_001_Login***********
+INFO:root:***********Verifying Home Page **********
+INFO:root:*********Home Page Pass********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 105.0 firefox
+INFO:WDM:Driver [C:\Users\hkhac\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+INFO:root:*********Verifying Login test ********
+INFO:root:*********Login Successful********
+INFO:root:*********Verifying MM (user) button test ********
+INFO:root:*********Pass MM (user) button test ********
+INFO:root:*********Verifying My Profile button test ********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 105.0 firefox
+INFO:WDM:Driver [C:\Users\hkhac\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 105.0 firefox
+INFO:WDM:Driver [C:\Users\hkhac\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+INFO:root:*********Verifying Login test ********
+INFO:root:*********Login Successful********
+INFO:root:*********Verifying MM (user) button test for switch app ********
+INFO:root:*********Pass MM (user) button test for switch app ********
+INFO:root:*********Verifying switch app button test ********
+INFO:root:*********Pass switch app button test ********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 105.0 firefox
+INFO:WDM:Driver [C:\Users\hkhac\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+INFO:root:****************Test_001_Login***********
+INFO:root:***********Verifying Home Page **********
+INFO:root:*********Home Page Pass********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 105.0 firefox
+INFO:WDM:Driver [C:\Users\hkhac\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+INFO:root:*********Verifying Login test ********
+INFO:root:*********Login Successful********
+INFO:root:*********Verifying MM (user) button test ********
+INFO:root:*********Pass MM (user) button test ********
+INFO:root:*********Verifying My Profile button test ********
+INFO:root:*********Pass My Profile button test ********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 105.0 firefox
+INFO:WDM:Driver [C:\Users\hkhac\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+INFO:root:*********Verifying MM (user) button test for switch app ********
+INFO:root:*********Pass MM (user) button test for switch app ********
+INFO:root:*********Verifying switch app button test ********
+INFO:root:*********Pass switch app button test ********
+INFO:root:*********Verifying switch admin button test ********
+INFO:root:*********Pass switch admin button test ********
+INFO:root:*********Verifying logout button test ********
+INFO:root:*********Verifying MM (user) button test for switch app ********
+INFO:root:*********Pass MM (user) button test for switch app ********
+INFO:root:*********Verifying switch app button test ********
+INFO:root:*********Pass switch app button test ********
+INFO:root:*********Verifying switch admin button test ********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 105.0 firefox
+INFO:WDM:Driver [C:\Users\hkhac\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+INFO:root:*********Verifying Login test ********
+INFO:root:*********Login Successful********
+INFO:root:*********Verifying MM (user) button test for switch app ********
+INFO:root:*********Pass MM (user) button test for switch app ********
+INFO:root:*********Verifying switch app button test ********
+INFO:root:*********Pass switch app button test ********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 105.0 firefox
+INFO:WDM:Driver [C:\Users\hkhac\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+INFO:root:****************Test_001_Login***********
+INFO:root:***********Verifying Home Page **********
+INFO:root:*********Home Page Pass********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 105.0 firefox
+INFO:WDM:Driver [C:\Users\hkhac\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+INFO:root:*********Verifying Login test ********
+INFO:root:*********Login Successful********
+INFO:root:*********Verifying MM (user) button test ********
+INFO:root:*********Pass MM (user) button test ********
+INFO:root:*********Verifying My Profile button test ********
+INFO:root:*********Pass My Profile button test ********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 105.0 firefox
+INFO:WDM:Driver [C:\Users\hkhac\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+INFO:root:*********Verifying MM (user) button test for switch app ********
+INFO:root:*********Pass MM (user) button test for switch app ********
+INFO:root:*********Verifying switch app button test ********
+INFO:root:*********Pass switch app button test ********
+INFO:root:*********Verifying switch admin button test ********
+INFO:root:*********Pass switch admin button test ********
+INFO:root:*********Verifying logout button test ********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 105.0 firefox
+INFO:WDM:Driver [C:\Users\hkhac\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+INFO:root:*********Verifying Login test ********
+INFO:root:*********Login Successful********
+INFO:root:*********Verifying MM (user) button test for switch app ********
+INFO:root:*********Pass MM (user) button test for switch app ********
+INFO:root:*********Verifying switch app button test ********
+INFO:root:*********Pass switch app button test ********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 105.0 firefox
+INFO:WDM:Driver [C:\Users\hkhac\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+INFO:root:*********Verifying Login test ********
+INFO:root:*********Verifying set login button test ********
+INFO:root:*********Verifying MM button test ********
+INFO:root:*********Verifying logout button test ********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 105.0 firefox
+INFO:WDM:Driver [C:\Users\hkhac\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+INFO:root:*********Verifying Login test ********
+INFO:root:*********Login Successful********
+INFO:root:*********Verifying MM (user) button test ********
+INFO:root:*********Pass MM (user) button test ********
+INFO:root:*********Verifying My Profile button test ********
+INFO:root:*********Pass My Profile button test ********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 105.0 firefox
+INFO:WDM:Driver [C:\Users\hkhac\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+INFO:root:*********Verifying MM (user) button test for switch app ********
+INFO:root:*********Pass MM (user) button test for switch app ********
+INFO:root:*********Verifying switch app button test ********
+INFO:root:*********Pass switch app button test ********
+INFO:root:*********Verifying switch admin button test ********
+INFO:root:*********Pass switch admin button test ********
+INFO:root:*********Verifying logout button test ********

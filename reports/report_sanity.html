@@ -243,7 +243,7 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
 }
 </script>
     <h1>report_sanity.html</h1>
-    <p>Report generated on 22-Sep-2022 at 19:48:35 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.1.1</p>
+    <p>Report generated on 28-Sep-2022 at 21:15:36 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.1.1</p>
     <h2>Environment</h2>
     <table id="environment">
       <tr>
@@ -271,8 +271,8 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
         <td>Tester</td>
         <td>Hayk</td></tr></table>
     <h2>Summary</h2>
-    <p>2 tests ran in 39.79 seconds. </p>
-    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">2 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">0 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
+    <p>4 tests ran in 69.78 seconds. </p>
+    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">4 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">0 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
     <h2>Results</h2>
     <table id="results-table">
       <thead id="results-table-head">
@@ -286,15 +286,48 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
-          <td class="col-name">test_user_button.py::Test_002_User::test_user_my_profile</td>
-          <td class="col-duration">14.06</td>
+          <td class="col-name">test_create_new_location.py::Test_003_User::test_add_new_location</td>
+          <td class="col-duration">19.05</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
             <div class="log"> -----------------------------Captured stdout setup------------------------------ <br/>launching firefox browser.............
-<br/> -----------------------------Captured stderr setup------------------------------ <br/>[WDM] - Downloading:   0%|                                                                                                                                                                               | 0.00/2.95k [00:00&lt;?, ?B/s][WDM] - Downloading: 16.2kB [00:00, 16.6MB/s]                                                                                                                                                                                        
+<br/> -----------------------------Captured stderr setup------------------------------ <br/>[WDM] - Downloading:   0%|                                                                                                                                                                                 | 0.00/2.96k [00:00&lt;?, ?B/s][WDM] - Downloading: 16.2kB [00:00, 16.7MB/s]                                                                                                                                                                                          
 <br/> -------------------------------Captured log setup------------------------------- <br/>INFO     WDM:logger.py:11 ====== WebDriver manager ======
-INFO     WDM:logger.py:11 Get LATEST geckodriver version for 104.0 firefox
+INFO     WDM:logger.py:11 Get LATEST geckodriver version for 105.0 firefox
+INFO     WDM:logger.py:11 Driver [C:\Users\hkhac\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_create_new_location.py:16 *********Verifying Login test ********
+INFO     root:test_create_new_location.py:21 *********Login Successful********
+INFO     root:test_create_new_location.py:22 *********Verifying MM (user) button test for switch app ********
+INFO     root:test_create_new_location.py:24 *********Pass MM (user) button test for switch app ********
+INFO     root:test_create_new_location.py:25 *********Verifying switch app button test ********
+INFO     root:test_create_new_location.py:28 *********Pass switch app button test ********<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">test_login.py::Test_001_Login::test_login</td>
+          <td class="col-duration">13.22</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -----------------------------Captured stdout setup------------------------------ <br/>launching firefox browser.............
+<br/> -----------------------------Captured stderr setup------------------------------ <br/>[WDM] - Downloading:   0%|                                                                                                                                                                                 | 0.00/2.96k [00:00&lt;?, ?B/s][WDM] - Downloading: 16.2kB [00:00, 5.53MB/s]                                                                                                                                                                                          
+<br/> -------------------------------Captured log setup------------------------------- <br/>INFO     WDM:logger.py:11 ====== WebDriver manager ======
+INFO     WDM:logger.py:11 Get LATEST geckodriver version for 105.0 firefox
+INFO     WDM:logger.py:11 Driver [C:\Users\hkhac\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_login.py:39 *********Verifying Login test ********
+INFO     root:test_login.py:49 *********Verifying set login button test ********
+INFO     root:test_login.py:53 *********Verifying MM button test ********
+INFO     root:test_login.py:57 *********Verifying logout button test ********<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">test_user_button.py::Test_002_User::test_user_my_profile</td>
+          <td class="col-duration">12.44</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> -----------------------------Captured stdout setup------------------------------ <br/>launching firefox browser.............
+<br/> -------------------------------Captured log setup------------------------------- <br/>INFO     WDM:logger.py:11 ====== WebDriver manager ======
+INFO     WDM:logger.py:11 Get LATEST geckodriver version for 105.0 firefox
 INFO     WDM:logger.py:11 Driver [C:\Users\hkhac\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_user_button.py:20 *********Verifying Login test ********
 INFO     root:test_user_button.py:26 *********Login Successful********
 INFO     root:test_user_button.py:27 *********Verifying MM (user) button test ********
@@ -305,14 +338,14 @@ INFO     root:test_user_button.py:33 *********Pass My Profile button test ******
         <tr>
           <td class="col-result">Passed</td>
           <td class="col-name">test_user_button.py::Test_002_User::test_user_switch_app_admin_logout</td>
-          <td class="col-duration">25.70</td>
+          <td class="col-duration">24.89</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
             <div class="log"> -----------------------------Captured stdout setup------------------------------ <br/>launching firefox browser.............
-<br/> -----------------------------Captured stderr setup------------------------------ <br/>[WDM] - Downloading:   0%|                                                                                                                                                                               | 0.00/2.95k [00:00&lt;?, ?B/s][WDM] - Downloading: 16.2kB [00:00, 17.8MB/s]                                                                                                                                                                                        
+<br/> -----------------------------Captured stderr setup------------------------------ <br/>[WDM] - Downloading:   0%|                                                                                                                                                                                 | 0.00/2.96k [00:00&lt;?, ?B/s][WDM] - Downloading: 16.2kB [00:00, 17.2MB/s]                                                                                                                                                                                          
 <br/> -------------------------------Captured log setup------------------------------- <br/>INFO     WDM:logger.py:11 ====== WebDriver manager ======
-INFO     WDM:logger.py:11 Get LATEST geckodriver version for 104.0 firefox
+INFO     WDM:logger.py:11 Get LATEST geckodriver version for 105.0 firefox
 INFO     WDM:logger.py:11 Driver [C:\Users\hkhac\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_user_button.py:44 *********Verifying MM (user) button test for switch app ********
 INFO     root:test_user_button.py:46 *********Pass MM (user) button test for switch app ********
 INFO     root:test_user_button.py:47 *********Verifying switch app button test ********

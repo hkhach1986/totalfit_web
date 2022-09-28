@@ -6,7 +6,7 @@ from selenium.webdriver.support import expected_conditions as EC
 class Locations:
     title_locations_xpath = "//h2[contains(text(), 'Tribe')]"
     tribe_xpath = "//div[contains(text(),'Tribe')]"
-    new_location_xpath = "//span[contains(text(),'Add new location')]"
+    new_tribe_xpath = "//span[contains(text(),'Add new tribe')]"
 
 
     def __init__(self, driver):
@@ -22,6 +22,6 @@ class Locations:
         wait_user = WebDriverWait(self.driver, timeout=10)
         wait_user.until(EC.visibility_of_element_located((By.XPATH, self.tribe_xpath))).click()
 
-    def add_new_location(self):
+    def add_new_tribe(self):
         wait_user = WebDriverWait(self.driver, timeout=10)
-        wait_user.until(EC.element_to_be_clickable((By.XPATH, self.new_location_xpath))).click()
+        wait_user.until(EC.element_to_be_clickable((By.XPATH, self.new_tribe_xpath))).click()

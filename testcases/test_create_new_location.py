@@ -28,7 +28,7 @@ class Test_003_User:
         self.logger.info("*********Pass switch app button test ********")
         time.sleep(5)
         self.location_page.tribe()
-        self.location_page.add_new_location()
+        self.location_page.add_new_tribe()
 
         # time.sleep(10)
         # self.up.setUser()

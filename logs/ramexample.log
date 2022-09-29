@@ -3533,3 +3533,70 @@ INFO:root:*********Verifying MM (user) button test for switch app ********
 INFO:root:*********Pass MM (user) button test for switch app ********
 INFO:root:*********Verifying switch app button test ********
 INFO:root:*********Pass switch app button test ********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 105.0 firefox
+INFO:WDM:Driver [C:\Users\hkhac\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+INFO:root:*********Verifying Login test ********
+INFO:root:*********Login Successful********
+INFO:root:*********Verifying MM (user) button test for switch app ********
+INFO:root:*********Pass MM (user) button test for switch app ********
+INFO:root:*********Verifying switch app button test ********
+INFO:root:*********Pass switch app button test ********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 105.0 firefox
+INFO:WDM:Driver [C:\Users\hkhac\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+INFO:root:****************Test_001_Login***********
+INFO:root:***********Verifying Home Page **********
+INFO:root:*********Home Page Pass********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 105.0 firefox
+INFO:WDM:Driver [C:\Users\hkhac\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+INFO:root:*********Verifying Login test ********
+INFO:root:*********Login Successful********
+INFO:root:*********Verifying MM (user) button test ********
+INFO:root:*********Pass MM (user) button test ********
+INFO:root:*********Verifying My Profile button test ********
+INFO:root:*********Pass My Profile button test ********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 105.0 firefox
+INFO:WDM:Driver [C:\Users\hkhac\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+INFO:root:*********Verifying MM (user) button test for switch app ********
+INFO:root:*********Pass MM (user) button test for switch app ********
+INFO:root:*********Verifying switch app button test ********
+INFO:root:*********Pass switch app button test ********
+INFO:root:*********Verifying switch admin button test ********
+INFO:root:*********Pass switch admin button test ********
+INFO:root:*********Verifying logout button test ********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 105.0 firefox
+INFO:WDM:Driver [C:\Users\hkhac\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+INFO:root:*********Verifying Login test ********
+INFO:root:*********Login Successful********
+INFO:root:*********Verifying MM (user) button test for switch app ********
+INFO:root:*********Pass MM (user) button test for switch app ********
+INFO:root:*********Verifying switch app button test ********
+INFO:root:*********Pass switch app button test ********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 105.0 firefox
+INFO:WDM:Driver [C:\Users\hkhac\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+INFO:root:****************Test_001_Login***********
+INFO:root:***********Verifying Home Page **********
+INFO:root:*********Home Page Pass********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 105.0 firefox
+INFO:WDM:Driver [C:\Users\hkhac\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+INFO:root:*********Verifying Login test ********
+INFO:root:*********Login Successful********
+INFO:root:*********Verifying MM (user) button test ********
+INFO:root:*********Pass MM (user) button test ********
+INFO:root:*********Verifying My Profile button test ********
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST geckodriver version for 105.0 firefox
+INFO:WDM:Driver [C:\Users\hkhac\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+INFO:root:*********Verifying MM (user) button test for switch app ********
+INFO:root:*********Pass MM (user) button test for switch app ********
+INFO:root:*********Verifying switch app button test ********
+INFO:root:*********Pass switch app button test ********
+INFO:root:*********Verifying switch admin button test ********
+INFO:root:*********Pass switch admin button test ********
+INFO:root:*********Verifying logout button test ********

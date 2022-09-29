@@ -3,8 +3,8 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 
-class Locations:
-    title_locations_xpath = "//h2[contains(text(), 'Tribe')]"
+class Tribe:
+    title_tribe_xpath = "//h2[contains(text(), 'Tribe')]"
     tribe_xpath = "//div[contains(text(),'Tribe')]"
     new_tribe_xpath = "//span[contains(text(),'Add new tribe')]"
 
@@ -12,9 +12,9 @@ class Locations:
     def __init__(self, driver):
         self.driver = driver
 
-    def get_locations_title_text(self):
+    def get_tribe_title_text(self):
         wait_user = WebDriverWait(self.driver, timeout=10)
-        return wait_user.until(EC.visibility_of_element_located((By.XPATH, self.title_locations_xpath))).text
+        return wait_user.until(EC.visibility_of_element_located((By.XPATH, self.title_tribe_xpath))).text
         # self.driver.find_element("xpath", self.title_locations_xpath).text
 
     def tribe(self):

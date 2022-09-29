@@ -1,7 +1,7 @@
 import pytest
 
 from page_objects.admin_page import Trainings
-from page_objects.locations_page import Locations
+from page_objects.tribe_page import Tribe
 from page_objects.user_page import UserWindow
 from utilities.customLogger import LogGen
 import time
@@ -16,7 +16,7 @@ class Test_003_User:
         self.logger.info("*********Verifying Login test ********")
 
         self.user_page = UserWindow(driver)
-        self.location_page = Locations(driver)
+        self.location_page = Tribe(driver)
         self.admin_page = Trainings(driver)
         self.logger.info("*********Login Successful********")
         self.logger.info("*********Verifying MM (user) button test for switch app ********")
@@ -24,7 +24,7 @@ class Test_003_User:
         self.logger.info("*********Pass MM (user) button test for switch app ********")
         self.logger.info("*********Verifying switch app button test ********")
         self.user_page.setSwitchApp()
-        assert self.location_page.get_locations_title_text() == "Tribe"
+        assert self.location_page.get_tribe_title_text() == "Tribe"
         self.logger.info("*********Pass switch app button test ********")
         time.sleep(5)
         self.location_page.tribe()

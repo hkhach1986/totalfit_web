@@ -7,7 +7,7 @@ from selenium.webdriver.chrome.service import Service
 from webdriver_manager.microsoft import EdgeChromiumDriverManager
 from page_objects.user_page import UserWindow
 from page_objects.login_page import LoginPage
-from page_objects.locations_page import Locations
+from page_objects.tribe_page import Tribe
 from page_objects.admin_page import Trainings
 from utilities.readProperties import ReadConfig
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities

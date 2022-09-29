@@ -3,7 +3,7 @@ import time
 import pytest
 
 from page_objects.admin_page import Trainings
-from page_objects.locations_page import Locations
+from page_objects.tribe_page import Tribe
 from page_objects.user_page import UserWindow
 from page_objects.my_profile_page import MyProfile
 from utilities.readProperties import ReadConfig
@@ -38,7 +38,7 @@ class Test_002_User:
         self.driver = driver
 
         self.user_page = UserWindow(self.driver)
-        self.location_page = Locations(self.driver)
+        self.location_page = Tribe(self.driver)
         self.admin_page = Trainings(self.driver)
 
         self.logger.info("*********Verifying MM (user) button test for switch app ********")
@@ -47,7 +47,7 @@ class Test_002_User:
         self.logger.info("*********Verifying switch app button test ********")
         self.user_page.setSwitchApp()
 
-        assert self.location_page.get_locations_title_text() == "Tribe"
+        assert self.location_page.get_tribe_title_text() == "Tribe"
         self.logger.info("*********Pass switch app button test ********")
         self.driver.implicitly_wait(10)
         time.sleep(10)
